@@ -12,6 +12,7 @@ module.exports = function(grunt) {
  
                 "dist/index.html": "app/index.html",
                 "dist/mindfulness.html": "app/mindfulness.html",
+                "dist/depression.html": "app/depression.html",
                 "dist/information.html": "app/information.html",
  
                 // etc ...
