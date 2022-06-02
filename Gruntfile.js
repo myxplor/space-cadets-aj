@@ -11,6 +11,7 @@ module.exports = function(grunt) {
                 // files go here, like so:
  
                 "index.html": "app/index.html",
+                "articles.html": "app/articles.html",
                 "crisis.html": "app/crisis.html",
                 "experts.html": "app/experts.html",
                 "information.html": "app/information.html",
