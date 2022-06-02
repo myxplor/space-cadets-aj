@@ -10,11 +10,11 @@ module.exports = function(grunt) {
             files: {
                 // files go here, like so:
  
-                "dist/index.html": "app/index.html",
-                "dist/mindfulness.html": "app/mindfulness.html",
-                "dist/depression.html": "app/depression.html",
-                "dist/information.html": "app/information.html",
-                "dist/mymynd.html": "app/mymynd.html",
+                "index.html": "app/index.html",
+                "mindfulness.html": "app/mindfulness.html",
+                "depression.html": "app/depression.html",
+                "information.html": "app/information.html",
+                "mymynd.html": "app/mymynd.html",
  
                 // etc ...
             }
