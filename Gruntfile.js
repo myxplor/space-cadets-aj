@@ -29,5 +29,6 @@ module.exports = function(grunt) {
 
   grunt.registerTask('default', 'bake');
   grunt.loadNpmTasks( "grunt-bake" );
+  grunt.loadNpmTasks('grunt-contrib-watch');
 
 };
